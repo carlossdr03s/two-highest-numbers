@@ -1,0 +1,31 @@
+{
+  "name": "two-highest-numbers",
+  "version": "1.0.0",
+  "description": "In this kata, your job is to return the two distinct highest values in a list. If there're less than 2 unique values, return as many of them, as possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlossdr03s/two-highest-numbers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlossdr03s/two-highest-numbers/issues"
+  },
+  "homepage": "https://github.com/carlossdr03s/two-highest-numbers#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-n": "^16.1.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
